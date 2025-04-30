@@ -1,0 +1,8 @@
+{
+    "cSpell.enabled": false,
+    "files.associations": {
+        "DOOMNET.C": "cpp",
+        "IPXNET.C": "cpp",
+        "PORT.C": "cpp"
+    }
+}
