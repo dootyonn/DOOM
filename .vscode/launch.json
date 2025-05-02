@@ -13,7 +13,7 @@
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [
-                { "name": "DOOMWADDIR", "value": "${workspaceFolder}" },
+                { "name": "DOOMWADDIR", "value": "/home/dominicdionne/tmp" },
                 { "name": "DISPLAY", "value": ":2" }
             ],
             "externalConsole": false,
